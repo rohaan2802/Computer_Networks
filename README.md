@@ -67,13 +67,13 @@ Computer Networks at FAST-NUCES Islamabad. The repository has 16 weeks of lectur
 | Lecture decks (Weeks 1–16) | 14 |
 | Labs | 15 |
 | Slide decks (PPTX) | 14 |
-| Word documents | 23 |
+| Word documents | 24 |
 | C source files | 14 |
-| Packet Tracer files (.pkt) | 6 |
+| Packet Tracer files (.pkt) | 8 |
 | Study notes (Markdown) | 14 |
 | PDF documents | 27 |
 | Screenshots | 30 |
-| Files in total | 111 |
+| Files in total | 128 |
 
 ## Lectures
 
@@ -99,7 +99,7 @@ Computer Networks at FAST-NUCES Islamabad. The repository has 16 weeks of lectur
 | Lab | Topic | Contents |
 |---|---|---|
 | 01 | [Introduction to networking and Packet Tracer](https://github.com/rohaan2802/Computer_Networks/tree/main/Computer%20Networks%20Lab/Lab%20%2301) | Lab manual |
-| 02 | [Protocol layers, wireless, ping and traceroute](https://github.com/rohaan2802/Computer_Networks/tree/main/Computer%20Networks%20Lab/Lab%20%2302) | Manual and my solution |
+| 02 | [Protocol layers, wireless, ping and traceroute](https://github.com/rohaan2802/Computer_Networks/tree/main/Computer%20Networks%20Lab/Lab%20%2302) | Manual, my report, Packet Tracer files and screenshots |
 | 03 | [Capturing HTTP and HTTPS with Wireshark](https://github.com/rohaan2802/Computer_Networks/tree/main/Computer%20Networks%20Lab/Lab%20%2303) | Manual, my report and HTML test pages |
 | 04 | [DNS and email server in Packet Tracer](https://github.com/rohaan2802/Computer_Networks/tree/main/Computer%20Networks%20Lab/Lab%20%2304) | Lab manual |
 | 05 | [TCP socket programming in C](https://github.com/rohaan2802/Computer_Networks/tree/main/Computer%20Networks%20Lab/Lab%20%2305) | Manual, task and my client/server code |
@@ -132,12 +132,11 @@ Computer Networks at FAST-NUCES Islamabad. The repository has 16 weeks of lectur
 
 ## Large Files (Release Downloads)
 
-GitHub does not allow files bigger than 100 MB inside a repository, so two files are attached to the **[v1.0 release](https://github.com/rohaan2802/Computer_Networks/releases/tag/v1.0)** instead:
+GitHub does not allow files bigger than 100 MB inside a repository, so one file is attached to the **[v1.0 release](https://github.com/rohaan2802/Computer_Networks/releases/tag/v1.0)** instead:
 
 | File | Size | Belongs in | Contents |
 |---|---|---|---|
-| Assignment1_Solution_E_i222327.rar | 366.1 MB | Computer Networks Course/Assignments | My Assignment 1 solution archive: C++ solutions, report and the Wireshark capture |
-| Lab3_Solution_3.pcapng | 502.7 MB | Computer Networks Lab/Lab #03 | Wireshark capture for Lab 3 (HTTP and HTTPS) |
+| Lab3_Solution_3.pcapng | 502.7 MB | Computer Networks Lab/Lab #03 | Wireshark capture for Lab 3 (HTTP and HTTPS), also used in Assignment 1 |
 
 Every other file is in the repository. The biggest one is the Kurose and Ross textbook PDF (20.5 MB).
 
@@ -146,7 +145,7 @@ Every other file is in the repository. The biggest one is the Kurose and Ross te
 ```text
 Computer_Networks/
 ├── Computer Networks Course/
-│   ├── Assignments/                      (6 files)
+│   ├── Assignments/                      (12 files)
 │   ├── Books/                            (1 file)
 │   ├── CNET_PROJECT/                     (4 files)
 │   ├── Lecture #01/                      (1 file)
@@ -168,7 +167,7 @@ Computer_Networks/
 │   └── Quizes/                           (5 files)
 ├── Computer Networks Lab/
 │   ├── Lab #01/                          (1 file)
-│   ├── Lab #02/                          (3 files)
+│   ├── Lab #02/                          (14 files)
 │   ├── Lab #03/                          (4 files)
 │   ├── Lab #04/                          (1 file)
 │   ├── Lab #05/                          (6 files)
