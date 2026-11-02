@@ -1,0 +1,17 @@
+* text=auto
+*.md text
+*.html text
+*.css text
+*.js text
+*.pdf binary
+*.docx binary
+*.pptx binary
+*.mp4 binary
+*.c text eol=lf
+*.pkt binary
+*.pcapng binary
+*.rar binary
+*.zip binary
+*.jpg binary
+*.png binary
+*.webp binary
